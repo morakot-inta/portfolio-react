@@ -1,8 +1,10 @@
 import About from "../../components/About/About";
+import Experience from "../../components/Experience/Experience";
 const RightSection = () => {
   return (
     <div >
       <About />
+      <Experience />
         <div className="mb-96">Experience 1</div>
         <div className="mb-96">Experience 2</div>
         <div className="mb-96">Experience 3</div>
